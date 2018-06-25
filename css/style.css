@@ -1,1 +1,13 @@
 /* add CSS class and element and selectors here */
+body { 
+  background-color: #3EC2B3;
+  font-size: 330%
+}
+
+.sampleclass {
+  font-family: georgia;
+  font-size:250%;
+  border: 10px dashed blue;
+  color: white;
+  
+}
